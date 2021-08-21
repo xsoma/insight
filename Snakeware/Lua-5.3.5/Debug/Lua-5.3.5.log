@@ -1,0 +1,45 @@
+﻿  lapi.c
+C:\Users\Shonax\Desktop\InsightCSGO-main\Snakeware\Lua-5.3.5\src\lapi.c(258,9): warning C4013: UNUSED: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Shonax\Desktop\InsightCSGO-main\Snakeware\Lua-5.3.5\src\lapi.c(398,49): warning C4244: return: преобразование "lua_Unsigned" в "size_t", возможна потеря данных
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+C:\Users\Shonax\Desktop\InsightCSGO-main\Snakeware\Lua-5.3.5\src\lgc.c(802,9): warning C4013: UNUSED: нет определения; предполагается "extern" с возвратом типа "int"
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  Создание кода...
+  Компиляция...
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+C:\Users\Shonax\Desktop\InsightCSGO-main\Snakeware\Lua-5.3.5\src\lstate.c(205,9): warning C4013: UNUSED: нет определения; предполагается "extern" с возвратом типа "int"
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+C:\Users\Shonax\Desktop\InsightCSGO-main\Snakeware\Lua-5.3.5\src\luac.c(124,8): warning C4013: UNUSED: нет определения; предполагается "extern" с возвратом типа "int"
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+  Создание кода...
+lua.obj : warning LNK4006: _main уже определен в luac.obj; второе определение пропущено
+  Lua-5.3.5.vcxproj -> C:\Users\Shonax\Desktop\InsightCSGO-main\Debug\Lua-5.3.5.lib

@@ -1,0 +1,115 @@
+#include "item_definitions.h"
+
+const std::map<size_t, weapon_info> k_weapon_info =
+{
+
+    {WEAPON_KNIFE,{"models/weapons/v_knife_default_ct.mdl", "knife_default_ct"}},
+	{WEAPON_KNIFE_T,{"models/weapons/v_knife_default_t.mdl", "knife_t"}},
+	{WEAPON_KNIFE_BAYONET, {"models/weapons/v_knife_bayonet.mdl", "bayonet"}},
+	{WEAPON_KNIFE_FLIP, {"models/weapons/v_knife_flip.mdl", "knife_flip"}},
+	{WEAPON_KNIFE_GUT, {"models/weapons/v_knife_gut.mdl", "knife_gut"}},
+	{WEAPON_KNIFE_KARAMBIT, {"models/weapons/v_knife_karam.mdl", "knife_karambit"}},
+	{WEAPON_KNIFE_OUTDOOR, {"models/weapons/v_knife_outdoor.mdl", "knife_outdoor"}},
+	{WEAPON_KNIFE_CANIS, {"models/weapons/v_knife_canis.mdl", "knife_canis"}},
+	{WEAPON_KNIFE_CORD, {"models/weapons/v_knife_cord.mdl", "knife_cord"}},
+	{WEAPON_KNIFE_M9_BAYONET, {"models/weapons/v_knife_m9_bay.mdl", "knife_m9_bayonet"}},
+	{WEAPON_KNIFE_TACTICAL, {"models/weapons/v_knife_tactical.mdl", "knife_tactical"}},
+	{WEAPON_KNIFE_FALCHION, {"models/weapons/v_knife_falchion_advanced.mdl", "knife_falchion"}},
+	{WEAPON_KNIFE_SKELETON, {"models/weapons/v_knife_skeleton.mdl", "knife_skeleton"}},
+	{WEAPON_KNIFE_SURVIVAL_BOWIE, {"models/weapons/v_knife_survival_bowie.mdl", "knife_survival_bowie"}},
+	{WEAPON_KNIFE_BUTTERFLY, {"models/weapons/v_knife_butterfly.mdl", "knife_butterfly"}},
+	{WEAPON_KNIFE_PUSH, {"models/weapons/v_knife_push.mdl", "knife_push"}},
+	{WEAPON_KNIFE_URSUS,{"models/weapons/v_knife_ursus.mdl", "knife_ursus"}},
+	{WEAPON_KNIFE_GYPSY_JACKKNIFE,{"models/weapons/v_knife_gypsy_jackknife.mdl", "knife_gypsy_jackknife"}},
+	{WEAPON_KNIFE_STILETTO,{"models/weapons/v_knife_stiletto.mdl", "knife_stiletto"}},
+	{WEAPON_KNIFE_WIDOWMAKER,{"models/weapons/v_knife_widowmaker.mdl", "knife_widowmaker"}},
+	{WEAPON_KNIFE_CSS,{"models/weapons/v_knife_css.mdl", "knife_css"}},
+	{GLOVE_STUDDED_BLOODHOUND,{"models/weapons/v_models/arms/glove_bloodhound/v_glove_bloodhound.mdl"}},
+	{GLOVE_T_SIDE,{"models/weapons/v_models/arms/glove_fingerless/v_glove_fingerless.mdl"}},
+	{GLOVE_CT_SIDE,{"models/weapons/v_models/arms/glove_hardknuckle/v_glove_hardknuckle.mdl"}},
+	{GLOVE_SPORTY,{"models/weapons/v_models/arms/glove_sporty/v_glove_sporty.mdl"}},
+	{GLOVE_SLICK,{"models/weapons/v_models/arms/glove_slick/v_glove_slick.mdl"}},
+	{GLOVE_LEATHER_WRAP,{"models/weapons/v_models/arms/glove_handwrap_leathery/v_glove_handwrap_leathery.mdl"}},
+	{GLOVE_MOTORCYCLE,{"models/weapons/v_models/arms/glove_motorcycle/v_glove_motorcycle.mdl"}},
+	{GLOVE_SPECIALIST,{"models/weapons/v_models/arms/glove_specialist/v_glove_specialist.mdl"}},
+	{GLOVE_HYDRA,{"models/weapons/v_models/arms/glove_bloodhound/v_glove_bloodhound_hydra.mdl"}}
+
+};
+const std::vector<weapon_name> k_knife_names =
+{
+
+    {0, "Default"},
+	{WEAPON_KNIFE_BAYONET, "bayonet"},
+	{WEAPON_KNIFE_FLIP, "flip knife"},
+	{WEAPON_KNIFE_GUT, "gut knife"},
+	{WEAPON_KNIFE_KARAMBIT, "karambit"},
+	{WEAPON_KNIFE_M9_BAYONET, "m9 Bayonet"},
+	{WEAPON_KNIFE_TACTICAL, "huntsman knife"},
+	{WEAPON_KNIFE_FALCHION, "falchion knife"},
+	{WEAPON_KNIFE_SURVIVAL_BOWIE, "bowie knife"},
+	{WEAPON_KNIFE_BUTTERFLY, "butterfly knife"},
+	{WEAPON_KNIFE_PUSH, "shadow daggers"},
+	{WEAPON_KNIFE_URSUS, "ursus knife"},
+	{WEAPON_KNIFE_GYPSY_JACKKNIFE, "navaja knife"},
+	{WEAPON_KNIFE_STILETTO, "stiletto knife"},
+	{WEAPON_KNIFE_WIDOWMAKER, "talon knife"},
+	{WEAPON_KNIFE_CSS, "css knife"},
+	{WEAPON_KNIFE_SKELETON, "skeleton knife"},
+	{WEAPON_KNIFE_OUTDOOR, "outdoor knife"},
+	{WEAPON_KNIFE_CANIS, "canis knife"},
+	{WEAPON_KNIFE_CORD, "cord knife"},
+
+
+};
+const std::vector<weapon_name> k_glove_names =
+{
+{ 0, "Default" },
+{ GLOVE_STUDDED_BLOODHOUND, "Bloodhound" },
+{ GLOVE_T_SIDE, "Default (Terrorists)" },
+{ GLOVE_CT_SIDE, "Default (Counter-Terrorists)" },
+{ GLOVE_SPORTY, "Sporty" },
+{ GLOVE_SLICK, "Slick" },
+{ GLOVE_LEATHER_WRAP, "Handwrap" },
+{ GLOVE_MOTORCYCLE, "Motorcycle" },
+{ GLOVE_SPECIALIST, "Specialist" },
+{ GLOVE_HYDRA, "Hydra" }
+};
+const std::vector<weapon_name> k_weapon_names =
+{
+{ 42, "knife" },
+{ 5028, "glove" },
+{ 7, "ak-47" },
+{ 8, "aug" },
+{ 9, "awp" },
+{ 63, "cz75 auto" },
+{ 1, "desert-eagle" },
+{ 2, "dual-berettas" },
+{ 10, "famas" },
+{ 3, "five-seveN" },
+{ 11, "g3sg1" },
+{ 13, "galil ar" },
+{ 4, "glock-18" },
+{ 14, "m249" },
+{ 60, "m4a1-s" },
+{ 16, "m4a4" },
+{ 17, "mac-10" },
+{ 27, "mag-7" },
+{ 33, "mp7" },
+{ 23, "mp5" },
+{ 34, "mp9" },
+{ 28, "negev" },
+{ 35, "nova" },
+{ 32, "p2000" },
+{ 36, "p250" },
+{ 19, "p90" },
+{ 26, "pp-bizon" },
+{ 64, "r8 revolver" },
+{ 29, "sawed-Off" },
+{ 38, "scar20" },
+{ 40, "ssg-08" },
+{ 39, "sg 553" },
+{ 30, "tec-9" },
+{ 24, "ump-45" },
+{ 61, "usp-s" },
+{ 25, "xm1014" }
+};

@@ -1,0 +1,141 @@
+﻿  lapi.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lapi.c(1300,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lauxlib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lauxlib.c(267,1): warning C4005: l_inspectstat: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lauxlib.c(263): message : см. предыдущее определение "l_inspectstat"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lauxlib.c(1044,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lbaselib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lbaselib.c(499,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lbitlib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lbitlib.c(234,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lcode.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lcode.c(1204,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lcorolib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lcorolib.c(169,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lctype.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lctype.c(56,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ldblib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldblib.c(457,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ldebug.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldebug.c(700,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ldo.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(66,1): warning C4005: LUAI_THROW: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(58): message : см. предыдущее определение "LUAI_THROW"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(67,1): warning C4005: LUAI_TRY: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(60): message : см. предыдущее определение "LUAI_TRY"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(68,1): warning C4005: luai_jmpbuf: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(61): message : см. предыдущее определение "luai_jmpbuf"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(73,1): warning C4005: LUAI_THROW: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(66): message : см. предыдущее определение "LUAI_THROW"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(74,1): warning C4005: LUAI_TRY: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(67): message : см. предыдущее определение "LUAI_TRY"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldo.c(803,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ldump.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ldump.c(216,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lfunc.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lfunc.c(152,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lgc.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lgc.c(1180,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  linit.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\linit.c(69,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  liolib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(64,1): warning C4005: l_popen: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(59): message : см. предыдущее определение "l_popen"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(65,1): warning C4005: l_pclose: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(60): message : см. предыдущее определение "l_pclose"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(73,1): warning C4005: l_popen: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(64): message : см. предыдущее определение "l_popen"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(74,1): warning C4005: l_pclose: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(65): message : см. предыдущее определение "l_pclose"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(90,1): warning C4005: l_getc: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(86): message : см. предыдущее определение "l_getc"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(91,1): warning C4005: l_lockfile: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(87): message : см. предыдущее определение "l_lockfile"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(92,1): warning C4005: l_unlockfile: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(88): message : см. предыдущее определение "l_unlockfile"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(118,1): warning C4005: l_fseek: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(110): message : см. предыдущее определение "l_fseek"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(119,1): warning C4005: l_ftell: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(111): message : см. предыдущее определение "l_ftell"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(120,1): warning C4005: l_seeknum: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(112): message : см. предыдущее определение "l_seeknum"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(125,1): warning C4005: l_fseek: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(118): message : см. предыдущее определение "l_fseek"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(126,1): warning C4005: l_ftell: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(119): message : см. предыдущее определение "l_ftell"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(127,1): warning C4005: l_seeknum: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(120): message : см. предыдущее определение "l_seeknum"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\liolib.c(777,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  llex.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\llex.c(566,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lmathlib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(32,1): warning C4005: l_rand: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(28): message : см. предыдущее определение "l_rand"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(33,1): warning C4005: l_srand: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(29): message : см. предыдущее определение "l_srand"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(34,1): warning C4005: L_RANDMAX: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(30): message : см. предыдущее определение "L_RANDMAX"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmathlib.c(411,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lmem.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lmem.c(101,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  loadlib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loadlib.c(117,1): warning C4005: cast_func: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loadlib.c(115): message : см. предыдущее определение "cast_func"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loadlib.c(225,1): warning C4005: LIB_FAIL: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loadlib.c(64): message : см. предыдущее определение "LIB_FAIL"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loadlib.c(791,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lobject.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lobject.c(523,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Компиляция...
+  lopcodes.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lopcodes.c(125,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  loslib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(47,1): warning C4005: LUA_STRFTIMEOPTIONS: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(45): message : см. предыдущее определение "LUA_STRFTIMEOPTIONS"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(49,1): warning C4005: LUA_STRFTIMEOPTIONS: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(47): message : см. предыдущее определение "LUA_STRFTIMEOPTIONS"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(92,1): warning C4005: l_gmtime: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(86): message : см. предыдущее определение "l_gmtime"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(93,1): warning C4005: l_localtime: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(87): message : см. предыдущее определение "l_localtime"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(130,1): warning C4005: LUA_TMPNAMBUFSIZE: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(115): message : см. предыдущее определение "LUA_TMPNAMBUFSIZE"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(131,1): warning C4005: lua_tmpnam: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(125): message : см. предыдущее определение "lua_tmpnam"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\loslib.c(410,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lparser.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lparser.c(1651,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lstate.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lstate.c(348,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lstring.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lstring.c(249,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lstrlib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lstrlib.c(1585,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ltable.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ltable.c(689,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ltablib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ltablib.c(451,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ltm.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\ltm.c(166,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lua.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(60,1): warning C4005: lua_stdin_is_tty: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(53): message : см. предыдущее определение "lua_stdin_is_tty"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(65,1): warning C4005: lua_stdin_is_tty: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(60): message : см. предыдущее определение "lua_stdin_is_tty"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(92,1): warning C4005: lua_readline: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(84): message : см. предыдущее определение "lua_readline"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(93,1): warning C4005: lua_saveline: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(85): message : см. предыдущее определение "lua_saveline"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(94,1): warning C4005: lua_freeline: изменение макроопределения
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(86): message : см. предыдущее определение "lua_freeline"
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lua.c(613,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  luac.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\luac.c(451,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lundump.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lundump.c(280,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lutf8lib.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lutf8lib.c(257,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lvm.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lvm.c(1323,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  lzio.c
+D:\Документы\GitHub\InsightCSGO\Lua-5.3.5\src\lzio.c(69,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
